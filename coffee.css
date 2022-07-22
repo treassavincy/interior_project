@@ -1,0 +1,269 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Shade&family=Mountains+of+Christmas&family=Oxygen&family=Playfair+Display&family=Roboto&family=Roboto+Serif:opsz,wght@8..144,300&display=swap');
+html,body{
+width: 100%;
+        }
+.al{
+    
+    height: 110px;
+    width: 100%;
+    background-color:white;
+ display: flex;
+ justify-content: space-evenly;
+ margin-top: 9px;
+ font-family: 'Oxygen', sans-serif;
+}
+
+.r1{
+background-color: rgb(62, 165, 184);
+height: 60px; 
+text-align: center; 
+ padding-top: 7px ;
+ position:sticky;
+ top: 0px;
+font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+.learn{
+    position: relative;
+    margin-left: -8px;
+   height: 800px;
+   background-repeat: no-repeat;
+   background-size: cover; 
+   background-image: url(./images/coffeebg.webp);
+}
+.coff{
+    color: #a3bbbb;
+      margin-left: 1160px;
+      font-size: 60px;
+      font-family: 'Playfair Display', serif;
+}
+.coff1{
+    color:#a3bbbb ;
+    margin-left: 1190px;
+    font-size: 60px;  font-family: 'Playfair Display', serif;
+}
+.coff2{
+    color: #a3bbbb;
+    margin-left: 1220px;
+    font-size: 60px;  font-family: 'Playfair Display', serif;
+}
+.sp{
+    font-weight: 800;
+}
+.hom{
+    height: 1000px;        
+    background-image:url(./images/coffee2.jpg) ;
+    margin-left: -8px;
+        background-repeat: no-repeat;
+    background-size:cover;
+ 
+    
+}
+.l1{padding-top:  50px;
+    margin-left: 100px;
+   color:#dbdbdb;
+   font-size: 40px; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight:500;   
+}
+
+.l2{width: 100%;
+    display: flex;
+
+  justify-content:space-evenly;
+}  
+
+.ln1{
+   position: absolute;
+    margin-top: -120px;
+    margin-left: 55px ;
+}
+.l{
+    background-color: #5bb8b8;
+    color: rgb(226, 218, 218);
+    height: 65px;
+    width: 290px;
+    font-size: 25px;
+    border-radius: 10px;
+    
+}
+.l:hover{
+    background-color:rgb(226, 218, 218);
+    color: black;
+    height: 65px;
+    width: 290px;
+    font-size: 25px;
+   
+}
+.lni{
+    margin-top: 25px;
+}
+.lni:hover{ 
+    box-shadow: 10px 10px 20px 20px rgb(126, 107, 107);
+  
+}
+.ln2{
+    font-size: 30px; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight:500; 
+    color:#dbdbdb;
+   margin-left: 80px;
+margin-top: -300px;
+
+}
+.menu{
+    height: 600px;
+  padding-top: 50px;
+  display: flex;
+justify-content: space-evenly;
+
+}
+
+.mn{
+ 
+    padding-top: 20px; 
+    margin-left: -100px; 
+        font-size: 30px;
+    font-family: "M PLUS Rounded 1c",sans-serif;
+}
+.menu2{
+    height: 650px;
+  padding-top: 50px;
+  display: flex;
+justify-content: space-evenly; 
+}
+.m{
+    height: 580px;
+    width: 410px;background-color: rgb(128, 190, 188);
+    border-radius: 10px;
+    font-size: 30px;
+    font-family: "M PLUS Rounded 1c",sans-serif;  
+}
+
+.m:hover{
+    background-color:#bdc5c5 ;
+}
+hr{
+    width: 96%;
+    border: #5bb8b8 5px dotted;
+}
+.st{
+    font-family: "M PLUS Rounded 1c",sans-serif;  
+  color: rgb(12, 9, 9);
+  font:bolder;
+  text-align:center;     font-size:55px; 
+  margin-top: 60px;
+  letter-spacing: 5px;
+  text-decoration: underline;
+}
+.con{ position: relative;
+    height: 1050px;
+    font-family: 'Playfair Display',arial,serif;
+
+}
+.formm{    
+
+    height: 728px; width: 50%;
+    position: absolute; 
+ 
+}
+.formtt{
+    height: 500px;
+    position: absolute;
+}
+
+.inp{
+    height:60px;
+    width: 420px;
+    font-size: 25px;
+padding-left: 20px;
+border: #b5b9b9 2px solid;
+border-radius: 5px;
+}
+textarea{
+    font-size: 25px;
+    color: #7a8383;
+}
+.sub{
+    width: 900px;
+    margin-left: -5px;
+    margin-right: 5px;
+    margin-bottom: 30px;
+    border: #b5b9b9 2px solid;
+border-radius: 5px;
+
+}
+#chk
+{
+    height: 30px;
+    width: 50px;
+    margin-left: -885px;
+    
+}
+.chkk{
+    position: relative;
+    margin-top: -55px;
+}
+.spn{
+   
+    font-size: 20px;
+    font-weight: lighter;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(68, 65, 65); 
+} 
+.spp{
+    position: absolute;
+    margin-top: -80px;
+    margin-left: 90px;
+}
+.btt{
+     height: 80px; 
+    width: 250px;
+    background-color: black;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    font-weight: 800;
+
+}
+
+.formtt{
+    height: 688px;
+    width: 80%;
+    position: absolute;
+    margin-top: -710px;
+    margin-left: 1100px;
+    background-color: #97cecc;
+    padding-top: 50px;
+}
+
+.styl{
+    margin-top: 40px;
+    /* margin-left: -200px; */
+    font-weight:bolder;
+    text-align: center;
+}
+.fx{
+    /* margin-top: 10px; */
+    text-align: center;color:#296d6b;
+    /* margin-left: -120px; */
+    font-weight: 500;
+}
+
+a:hover{
+    color: black;
+}
+.footr{
+    background-color: #47b6c2;
+    height: 360px;
+    width: 200%;
+    margin-top: 125px;
+    position: relative;
+   display: flex; justify-content:center;
+}
+.a{
+    color: black;
+}
+
+.sh{
+    text-decoration: none;
+    color: black;
+}
